@@ -112,14 +112,14 @@ Now, you can (re)deploy your mattermost: `$ cf push mattermost`
 **For version 2.X.X**:
 
  ```
- $ wget https://rawgit.com/cloudfoundry-community/mattermost-cf-integrator/master/cloudfoundryLogo.png
+ $ wget https://combinatronics.com/cloudfoundry-community/mattermost-cf-integrator/master/cloudfoundryLogo.png
  $ cp cloudfoundryLogo.png web/static/images/gitlabLogo.png
  ```
 
 **For version 3.X.X**:
 
  ```
- $ wget https://rawgit.com/cloudfoundry-community/mattermost-cf-integrator/master/cloudfoundryLogo.png
+ $ wget https://combinatronics.com/cloudfoundry-community/mattermost-cf-integrator/master/cloudfoundryLogo.png
  $ cp cloudfoundryLogo.png webapp/dist/files/bf61680806a56e50a7857eeeea863f01.png
  ```
 
